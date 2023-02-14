@@ -40,5 +40,7 @@ public class ArrayListClass {
             }
         }
         System.out.println(list);
+        System.out.println("-------------------------------------------");
+        System.out.println(list.indexOf(78));
     }
 }
