@@ -42,5 +42,11 @@ public class ArrayListClass {
         System.out.println(list);
         System.out.println("-------------------------------------------");
         System.out.println(list.indexOf(78));
+
+        ArrayList<Integer > a = new ArrayList<>(Arrays.asList(12,78,78,454,48));
+        ArrayList<Integer > b = new ArrayList<>(Arrays.asList(1,2,3,4,5));
+        a = b ;
+        System.out.println(a + "--------> " +b);
+
     }
 }
