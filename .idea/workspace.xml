@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="INITIAL COMMIT">
-      <change afterPath="$PROJECT_DIR$/src/Basic/AnonymousClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/HashSetClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/LinkedListClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/FunctionalInterface.java" afterDir="false" />
+    <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/Basic/BasicInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/LambdaClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/ArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayListClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FunctionalInterface">
+  <component name="RunManager" selected="Application.BasicInfo">
     <configuration name="AnonymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.AnonymousClass" />
       <module name="Programs" />
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayListClass" />
+    <configuration name="BasicInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.BasicInfo" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.LinkedListClass" />
+    <configuration name="LambdaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.LambdaClass" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicInfo" />
+        <item itemvalue="Application.LambdaClass" />
         <item itemvalue="Application.FunctionalInterface" />
         <item itemvalue="Application.AnonymousClass" />
         <item itemvalue="Application.HashSetClass" />
-        <item itemvalue="Application.LinkedListClass" />
-        <item itemvalue="Application.ArrayListClass" />
       </list>
     </recent_temporary>
   </component>
@@ -159,12 +157,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676410874038</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changes">
+      <created>1676489969887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676489969887</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="INITIAL COMMIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="INITIAL COMMIT" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
