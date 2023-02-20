@@ -72,5 +72,10 @@ public class Control {
         // ternary
         int number = 45;
         String output=(number%2==0)?"even number":"odd number";
+
+        // for each
+        for(Integer i2 : new int[]{10, 44, 78, 78, 45}){
+            System.out.println(i2);
+        }
     }
 }

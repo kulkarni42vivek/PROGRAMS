@@ -45,8 +45,19 @@ public class BasicInfo {
         // operator precedence
         // unary > arithmatic > shift > relational > bitwise > logical > ternary > asignment
 
-        // keyword - > default words by java
+        // keyword - > default words by java - 51 keywords
 
+        // widening and narrowing of the variables
+
+        // data type sizes
+        // boolean - 1 bit
+        // char - 2 byte
+        // byte - 1 byte
+        // int - 4 byte
+        // short - 2 byte
+        // long - 8 byte
+        // float - 4 byte
+        // double - 8 bute
 
     }
 }
