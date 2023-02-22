@@ -1,8 +1,10 @@
 package Basic;
 
 // main concepts
-// class , objects , inheritance , polymorphism , encapsulation , abstraction
-// extra concepts - coupling , cohesion , association , aggreagaaiton , composition
+// class -- logical entity -- blueprint for the objects , objects  -- instance of a class
+//  inheritance , polymorphism -- overloading and overriding , encapsulation , abstraction
+// extra concepts - coupling -- coupling meaning dependency of other classes on class
+//  cohesion -- mixing of classes java.io is highly cohesive , java.util is less cohesive, association , aggreagaaiton , composition
 
 import java.rmi.StubNotFoundException;
 import java.security.spec.ECField;

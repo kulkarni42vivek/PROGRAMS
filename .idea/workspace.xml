@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/Basic/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Aggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/BInding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/InstanceIni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/IntefaceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/JavaPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ObjectClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ObjectsAndClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/StaticClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringArray/ArrayClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/BasicInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/BasicInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/ConstructorClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/ConstructorClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/OopsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/OopsClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +62,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapClass">
-    <configuration name="BasicInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.BasicInfo" />
+  <component name="RunManager" selected="Application.ObjectClas">
+    <configuration name="BInding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.BInding" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.FunctionalInterface" />
+    <configuration name="InstanceIni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.InstanceIni" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.HashMapClass" />
+    <configuration name="ObjectClas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.ObjectClas" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.LambdaClass" />
+    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Polymorphism" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OopsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.OopsClass" />
+    <configuration name="SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.SuperKeyword" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashMapClass" />
-        <item itemvalue="Application.OopsClass" />
-        <item itemvalue="Application.BasicInfo" />
-        <item itemvalue="Application.LambdaClass" />
-        <item itemvalue="Application.FunctionalInterface" />
+        <item itemvalue="Application.ObjectClas" />
+        <item itemvalue="Application.BInding" />
+        <item itemvalue="Application.Polymorphism" />
+        <item itemvalue="Application.InstanceIni" />
+        <item itemvalue="Application.SuperKeyword" />
       </list>
     </recent_temporary>
   </component>
@@ -177,13 +196,31 @@
       <option name="project" value="LOCAL" />
       <updated>1676899317507</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changes">
+      <created>1676901962138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676901962138</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="INITIAL COMMIT" />
     <MESSAGE value="changes" />
     <option name="LAST_COMMIT_MESSAGE" value="changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basic/OopsClass.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
