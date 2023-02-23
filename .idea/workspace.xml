@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/Basic/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Aggregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/BInding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/FinalKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/InstanceIni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/IntefaceClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/JavaPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/ObjectClas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/ObjectsAndClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/StaticClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/ThisKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringArray/ArrayClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/CallByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/JavaMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/WrapperClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringArray/CharAtInternal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringArray/StringClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/ConstructorClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/ConstructorClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/OopsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/OopsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringArray/ArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringArray/ArrayClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +48,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ObjectClas">
-    <configuration name="BInding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.BInding" />
+  <component name="RunManager" selected="Application.CharAtInternal">
+    <configuration name="CallByValue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.CallByValue" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceIni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.InstanceIni" />
+    <configuration name="CallByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.CallByValue" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectClas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.ObjectClas" />
+    <configuration name="CharAtInternal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringArray.CharAtInternal" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="StringArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Polymorphism" />
+    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringArray.StringClass" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="StringArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.SuperKeyword" />
+    <configuration name="WrapperClas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.WrapperClas" />
       <module name="Programs" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectClas" />
-        <item itemvalue="Application.BInding" />
-        <item itemvalue="Application.Polymorphism" />
-        <item itemvalue="Application.InstanceIni" />
-        <item itemvalue="Application.SuperKeyword" />
+        <item itemvalue="Application.CharAtInternal" />
+        <item itemvalue="Application.StringClass" />
+        <item itemvalue="Application.CallByValue" />
+        <item itemvalue="Application.CallByValue (1)" />
+        <item itemvalue="Application.WrapperClas" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676901962138</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="changes">
+      <created>1677072169531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677072169531</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
