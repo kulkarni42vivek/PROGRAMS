@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes" />
+    <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/PepCoding/PepCoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/CountDig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/DigitsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/Inverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/PrimeTill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/Diamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.CharAtInternal">
-    <configuration name="CallByValue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.CallByValue" />
-      <module name="Programs" />
+}]]></component>
+  <component name="RunManager" selected="Application.Inverse">
+    <configuration name="CountDig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.CountDig" />
+      <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basic.*" />
@@ -53,9 +68,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.CallByValue" />
-      <module name="Programs" />
+    <configuration name="DigitsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.DigitsOfNumber" />
+      <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basic.*" />
@@ -66,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharAtInternal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringArray.CharAtInternal" />
-      <module name="Programs" />
+    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Fibo" />
+      <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringArray.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringArray.StringClass" />
-      <module name="Programs" />
+    <configuration name="Inverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Inverse" />
+      <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringArray.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.WrapperClas" />
-      <module name="Programs" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Reverse" />
+      <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basic.*" />
@@ -107,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharAtInternal" />
-        <item itemvalue="Application.StringClass" />
-        <item itemvalue="Application.CallByValue" />
-        <item itemvalue="Application.CallByValue (1)" />
-        <item itemvalue="Application.WrapperClas" />
+        <item itemvalue="Application.Inverse" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.DigitsOfNumber" />
+        <item itemvalue="Application.CountDig" />
+        <item itemvalue="Application.Fibo" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677160483267</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="changes">
+      <created>1677171469063</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677171469063</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
