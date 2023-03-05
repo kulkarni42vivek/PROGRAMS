@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/PepCoding/PepCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/CountDig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/DigitsOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/Fibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/Inverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/IsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/PrimeTill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/Diamond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +50,13 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inverse">
-    <configuration name="CountDig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.CountDig" />
+  <component name="RunManager" selected="Application.Pattern6">
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern2" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.DigitsOfNumber" />
+    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern3" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Fibo" />
+    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern4" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Inverse" />
+    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern5" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Reverse" />
+    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern6" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Inverse" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.DigitsOfNumber" />
-        <item itemvalue="Application.CountDig" />
-        <item itemvalue="Application.Fibo" />
+        <item itemvalue="Application.Pattern6" />
+        <item itemvalue="Application.Pattern5" />
+        <item itemvalue="Application.Pattern4" />
+        <item itemvalue="Application.Pattern3" />
+        <item itemvalue="Application.Pattern2" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677171469063</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="changes">
+      <created>1677794370301</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677794370301</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
