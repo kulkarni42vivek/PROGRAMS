@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/GcdLcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Basic/RotateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,22 +47,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimeFactorization">
-    <configuration name="GcdLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.GcdLcm" />
-      <module name="PepCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern14" />
+  <component name="RunManager" selected="Application.Pattern20">
+    <configuration name="Pattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern16" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +61,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern15" />
+    <configuration name="Pattern17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern17" />
+      <module name="PepCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern18" />
+      <module name="PepCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern20" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
@@ -99,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.RotateNumber" />
-      <module name="PepCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern20" />
+        <item itemvalue="Application.Pattern18" />
+        <item itemvalue="Application.Pattern17" />
+        <item itemvalue="Application.Pattern16" />
         <item itemvalue="Application.PrimeFactorization" />
-        <item itemvalue="Application.GcdLcm" />
-        <item itemvalue="Application.RotateNumber" />
-        <item itemvalue="Application.Pattern15" />
-        <item itemvalue="Application.Pattern14" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678010909018</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="changes">
+      <created>1678013057573</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678013057573</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
