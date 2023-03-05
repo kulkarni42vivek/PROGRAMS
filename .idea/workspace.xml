@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45837ff6-d095-4c31-bf34-681f436f357a" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/PepCoding/src/Patterns/Pattern7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +52,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pattern6">
-    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern2" />
+  <component name="RunManager" selected="Application.Pattern15">
+    <configuration name="Pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern11" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern3" />
+    <configuration name="Pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern12" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern4" />
+    <configuration name="Pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern13" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern5" />
+    <configuration name="Pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern14" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern6" />
+    <configuration name="Pattern15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Pattern15" />
       <module name="PepCoding" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern6" />
-        <item itemvalue="Application.Pattern5" />
-        <item itemvalue="Application.Pattern4" />
-        <item itemvalue="Application.Pattern3" />
-        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern15" />
+        <item itemvalue="Application.Pattern14" />
+        <item itemvalue="Application.Pattern13" />
+        <item itemvalue="Application.Pattern12" />
+        <item itemvalue="Application.Pattern11" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677794370301</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="changes">
+      <created>1677988866006</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677988866006</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
